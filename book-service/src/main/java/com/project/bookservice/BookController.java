@@ -14,7 +14,7 @@ import com.project.entity.Book;
 @RequestMapping(("/books"))
 public class BookController {
 	private List<Book> bookList = Arrays.asList(new Book(1L, "Baeldung goes to Market", "Tim"),
-			new Book(1L, "Baeldung goes to Park", "Sylvasa"));
+			new Book(2L, "Baeldung goes to Park", "Sylvasa"));
 
 	@GetMapping
 	public List<Book> findAllBooks() {
