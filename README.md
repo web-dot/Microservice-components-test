@@ -32,8 +32,6 @@ mvnw.cmd spring-boot:run
 
 ## Test APIs
 
-Once all services are running, you can test the APIs through the API Gateway.
-
 ### Get Books
 
 ```text
