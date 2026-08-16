@@ -1,6 +1,6 @@
 # Micro Components Test
 
-A simple microservices project built with Spring Boot and Spring Cloud.
+A microservices test project demonstrating Spring Cloud components such as Config Server, Service Discovery with Eureka, and API Gateway, along with services like Book Service and Rating Service.
 
 ## How to Run the Project
 
