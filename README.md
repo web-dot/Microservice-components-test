@@ -4,7 +4,7 @@ A simple microservices project built with Spring Boot and Spring Cloud.
 
 ## How to Run the Project
 
-### 1. Navigate to a server folder
+### 1.Clone the project, Navigate to a server folder
 
 Open a terminal inside the microservice/server folder you want to run.
 
