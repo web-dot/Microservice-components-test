@@ -1,4 +1,4 @@
-package com.project.rating_service;
+package com.project.recommendation_service;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
@@ -8,9 +8,10 @@ import org.springframework.cloud.openfeign.EnableFeignClients;
 @SpringBootApplication
 @EnableDiscoveryClient
 @EnableFeignClients
-public class RatingServiceApplication {
+public class RecommendationServiceApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(RatingServiceApplication.class, args);
+		SpringApplication.run(RecommendationServiceApplication.class, args);
 	}
+
 }
